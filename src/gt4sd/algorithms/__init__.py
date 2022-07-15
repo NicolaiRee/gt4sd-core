@@ -58,7 +58,6 @@ from .generation.hugging_face.core import (  # noqa: F401
     HuggingFaceXLMGenerator,
     HuggingFaceXLNetGenerator,
 )
-from .generation.moler.core import MoLeRDefaultGenerator  # noqa: F401
 from .generation.pgt.core import (  # noqa: F401
     PGTCoherenceChecker,
     PGTEditor,
